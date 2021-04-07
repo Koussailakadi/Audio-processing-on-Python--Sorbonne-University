@@ -1,4 +1,4 @@
-# Audio processing on Python at Sorbonne University
+# Audio processing en Python à Sorbonne University
 
 les points essentiels dans ce projet:
 
