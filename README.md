@@ -2,6 +2,11 @@
 
 les points essentiels dans ce projet:
 
+## Analyse à temps continu:
+* Transformée de fourier 
+
+## Analyse à temps discret , fréquence discrete: 
+
 * traitement du signal audio
 * échantillonnage d'un signal audio 
 * quantification du signal audio
