@@ -12,7 +12,8 @@ les points essentiels dans ce projet:
 * quantification du signal audio
 * analyse du signal audio (filtraga numérique) 
 * analyse spectral d'un signal audio 
-* trasformées de fourrier discretes TDF
-* tranformées de fourrier à court terme TFCT
+* trasformées de fourier discretes TDF
+* tranformées de fourier à court terme TFCT
 * réstitution d'un signal audio TFCT inverse
 * Compression d'un signal Audio 
+* fenêtrage (hamming, hanning, blackman, triangulaire, rectangulaire) 
