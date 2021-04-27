@@ -20,17 +20,17 @@ les points essentiels dans ce projet:
 
 
 ## TP1: 
+---------------------------------------
 
 ## TP2:
 
-
+---------------------------------------
 ## TP3 Traitement Audio 
 ##  Reconstruction du signal audio : TFCT inverse
-### $ Auteurs: $
-### $ koussaila $ $ KADI $ 
-### $ Mickaël$  $Da$ $Rocha$ $Martin$
----------------------------------------
-### $email:$ $kadi.koussaila@outlook.fr$
+###  Auteurs: 
+###  koussaila KADI  
+###  Mickaël Da Rocha$ Martin
+### email: $kadi.koussaila@outlook.fr
 ## Résumé:
 La première partie du TP consiste à implémenter l’algorithme de Transformée de Fourier à Court-Terme Inverse (ITFCT). La fonction, que l’on nommera itfct.py, aura pour paramètres d’entrée la TFCT d’un signal, le pas d’avancement de la fenêtre d’analyse Nhop , ainsi que le nombre de points fréquentiels utilisés dans l’algorithme TFCT Nfft et la fréquence d’échantillonnage Fs du signal initial. La TFCT, notée x mat , sera écrite sous la forme d’une matrice de
 dimensions $nl × L$ éterminées au $TP2$
@@ -50,6 +50,10 @@ $y_L [n] ⇒y_L [n − (L − 1)Nhop ] = x[n]w[n − (L − 1)Nhop ]$
 *   $Etape 4$ : sommer les trames décalées $ y_l [n − (l − 1)Nhop]$
 
 *   $Etape 5$ : normaliser le signal temporel
+
+---------------------------------------
+## TP4:
+
 
 
 
