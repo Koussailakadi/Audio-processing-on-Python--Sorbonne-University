@@ -25,6 +25,36 @@
 
 
 ## TP1: 
+### Acquisition et quantification d’un signal audio. Rééchantillonnage et phénomène de repliement spectral.
+### Résumé: 
+Le but de ce TP est d'étudier l'effet du sur-échantillonnage (les pertes lors de  quantifications) et les quenséconses sur la qualité de l'audio
+
+## étapes:
+1.   Étude de la quantification
+    *   quantifier le signal audio sur un nombre de bits variable pour étudier l'effet sur la qualité de l'audio. 
+    *   mesure du bruit de quantification et les erreur induites et le rapport signal bruit RSB
+    *   qualité audio HD et CD 
+2.   Rééchantillonnage et repliement spectral
+    *   analyse de l'effet de repliement spectral (sous échantillonnage du signal audio) et les effets sur le signal audio reconstruit 
+
+### compétences:
+*   transformée de frourier
+*   traitement de signal numérique et audio 
+*   filtrage numérique 
+*   analyse des résultats 
+*   mathématique 
+
+### Programme: 
+#### bibliothèques necessaires:
+*   os
+*   numpy
+*   scipy
+*   matplotlib
+*   playsound
+*   IPython
+
+pour installer une bibliothèque : $ pip install nom_bibliothèque
+
 ---------------------------------------
 
 ## TP2:
