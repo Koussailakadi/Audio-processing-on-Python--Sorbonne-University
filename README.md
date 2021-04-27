@@ -61,6 +61,7 @@ y_L [n] ⇒y_L [n − (L − 1)Nhop ] = x[n]w[n − (L − 1)Nhop ]
 
 ---------------------------------------
 ## TP4:
+### Compression d’un Signal Audio
 ### Résumé:
 La compression de données est un domaine clef dans l’ère du numérique : pouvoir stocker, partager, et lire des données avec le minimum d’espace de stockage, le minimum de mémoire vive, et dans un minimum de temps. La compression audio avec perte (MPEG-1 layer I-II-III) repose sur une idée simple : on ne code pas ce qui ne s’entend pas. Ainsi, l’audio compressé est sensé être identique perceptivement à l’audio original. L’objectif de cette partie est d’étudier un algorithme de compression audio inspiré de la norme MPEG-1 layer III, avec un focus sur l'effet de l'allocation de bits sur la qualité de l'enregistrement audio.
 
