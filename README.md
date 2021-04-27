@@ -23,6 +23,9 @@
 * Compression d'un signal Audio 
 * fenêtrage (hamming, hanning, blackman, triangulaire, rectangulaire) 
 
+---------------------------------------
+---------------------------------------
+
 
 ## TP1: 
 ### Acquisition et quantification d’un signal audio. Rééchantillonnage et phénomène de repliement spectral.
